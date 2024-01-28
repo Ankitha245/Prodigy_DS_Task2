@@ -9,7 +9,7 @@ The datasets is obtained from Kaggle: Titanic
 The dataset contains 891 rows (entries) and 12 columns
 The columns are:
 
-PassengerId: Unique identifier for each passenger.
+PassengerId: Unique identifier for each passenger. \n
 Survived: Binary variable indicating survival (1 = Survived, 0 = Did Not Survive).
 Pclass: Ticket class (1st, 2nd, 3rd class).
 Name: Passenger's name.
